@@ -7,7 +7,7 @@ Este é um projeto Go (Golang) criado durante a aprendizagem da linguagem Go, se
 
 1. **Clone o Repositório:**
    ```bash
-   git clone git@github.com:MelvimJones/CrudGo.git
+   git clone git@github.com:MelvimJones/SimpleGoCRUD.git
    cd crudGo_mvc
    ```
 
